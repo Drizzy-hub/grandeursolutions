@@ -1,0 +1,20 @@
+.card-container{
+    padding-top: 35px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem,16rem));
+    gap: 10rem;
+    justify-content: center;
+    height:350px;
+    background-color: #FFFFFF;
+    width: 100%;
+    
+}
+
+@media screen and (max-width: 768px) {
+    .card-container {
+        height:1200px;
+        width: 100%;
+        
+    }
+    
+  }
