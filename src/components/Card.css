@@ -27,7 +27,7 @@ border-radius: 12px;
     font-size: 50px;  
 }
 .card-icon{
-    
+    align-items: center;
     width: 50px;
     font-size: 1.5rem;
     padding: 0.5rem 0.9rem;
@@ -48,6 +48,7 @@ border-radius: 12px;
     margin-bottom: 0.2rem;
 }
 .card-desciption{
+    
     width: 452px;
     height: 135px;
     left: 142px;
@@ -61,6 +62,7 @@ border-radius: 12px;
     color: #5C6E9A;
 }
 .card-desciption1{
+    text-align: center;
     width: 452px;
     height: 135px;
     left: 142px;
@@ -69,7 +71,6 @@ border-radius: 12px;
     font-weight: 400;
     font-size: 17px;
     line-height: 33px;
-    text-align: center;
     letter-spacing: 0.02em;
     color: #5C6E9A;
 }
